@@ -13,3 +13,8 @@ function isDivisible(n, x, y) {
     alert(r)
   }
   oc()
+  function time(a,b,c){
+    let sum
+ return sum=a+b+c
+  }
+  time(2,3,4)
